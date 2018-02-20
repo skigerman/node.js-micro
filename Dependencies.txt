@@ -1,0 +1,4 @@
+express
+@slack/client
+dotenv
+superAgent
